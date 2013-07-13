@@ -1,17 +1,19 @@
-# Theme for Aron Cedercrantz’s Website and Blog #
-See [aron.cedercrantz.com](http://aron.cedercrantz.com) for a live example.
+# Theme for Sam Davies' Blog #
+See [iwantmyreal.name](http://iwantmyreal.name/) for a live example.
+This is based on (well, forked) from the amazing theme made by Aron Cedercrantz
+[aron.cedercrantz.com](http://aron.cedercrantz.com)
 
 The theme was created for use with [Octopress](http://octopress.org/).
 
 ## Installing the Theme
 The theme is for the [Octopress](https://github.com/imathis/octopress) blogging
 system. To install it either
-[download the theme](https://github.com/rastersize/BlogTheme/zipball/master)
+[download the theme](https://github.com/sammyd/BlogTheme/zipball/master)
 and drop the directory into the `./.themes` directory or add this repository as a
 submodule:
 
 ```Shell
-git submodule add https://github.com/rastersize/BlogTheme.git .themes/BlogTheme
+git submodule add https://github.com/sammyd/BlogTheme.git .themes/BlogTheme
 git submodule update --init
 ```
 
@@ -41,7 +43,7 @@ Done, test it `rake generate && rake preview`.
 
 ### Manually Installed  Directory
 
-1. [Download the theme](https://github.com/rastersize/BlogTheme/zipball/master)
+1. [Download the theme](https://github.com/sammyd/BlogTheme/zipball/master)
 from GitHub.
 2. Copy it into your `.themes` directory.
 3. Update it
